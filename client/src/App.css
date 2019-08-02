@@ -1,0 +1,11 @@
+.app {}
+.login-page,
+.register-page {
+  margin-top: 100px
+}
+.form-group.has-error input{
+  border-color: red 
+}
+.main-page {
+  margin-top: 20px
+}
